@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Machine Learning](https://img.shields.io/badge/ML-Classification-orange)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red?style=flat-square&logo=streamlit)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
